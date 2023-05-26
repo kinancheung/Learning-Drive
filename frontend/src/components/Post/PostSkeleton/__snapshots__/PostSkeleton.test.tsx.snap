@@ -1,0 +1,94 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PostSkeleton renders without error 1`] = `
+<DocumentFragment>
+  <div
+    class="css-17tdugr-MuiStack-root"
+  >
+    <div
+      class="MuiCardHeader-root css-jqca2x-MuiCardHeader-root"
+    >
+      <div
+        class="MuiCardHeader-avatar css-1ssile9-MuiCardHeader-avatar"
+      >
+        <span
+          class="MuiSkeleton-root MuiSkeleton-circular MuiSkeleton-pulse css-fomgco-MuiSkeleton-root"
+          style="width: 40px; height: 40px;"
+        />
+      </div>
+      <div
+        class="MuiCardHeader-content css-1qbkelo-MuiCardHeader-content"
+      >
+        <span
+          class="MuiTypography-root MuiTypography-body2 MuiCardHeader-title css-et1ao3-MuiTypography-root"
+        >
+          <div
+            class="css-1yo1jo6-MuiStack-root"
+          >
+            <span
+              class="MuiTypography-root MuiTypography-body1 css-ahj2mt-MuiTypography-root"
+            >
+              <span
+                class="MuiSkeleton-root MuiSkeleton-text MuiSkeleton-pulse css-1n7gpw1-MuiSkeleton-root"
+                style="width: 20vw;"
+              />
+            </span>
+            <span
+              class="MuiTypography-root MuiTypography-caption css-1lhh814-MuiTypography-root"
+            >
+              <span
+                class="MuiSkeleton-root MuiSkeleton-text MuiSkeleton-pulse css-1n7gpw1-MuiSkeleton-root"
+                style="width: 50%;"
+              />
+            </span>
+          </div>
+        </span>
+        <span
+          class="MuiTypography-root MuiTypography-body2 MuiCardHeader-subheader css-83ijpv-MuiTypography-root"
+        >
+          <div
+            class="css-w4z10b-MuiStack-root"
+          >
+            <span
+              class="MuiSkeleton-root MuiSkeleton-rectangular MuiSkeleton-pulse css-1k986ro-MuiSkeleton-root"
+              style="width: 60px; height: 18px;"
+            />
+            <span
+              class="MuiSkeleton-root MuiSkeleton-rectangular MuiSkeleton-pulse css-1k986ro-MuiSkeleton-root"
+              style="width: 80px; height: 18px;"
+            />
+          </div>
+        </span>
+      </div>
+    </div>
+    <p
+      class="MuiTypography-root MuiTypography-body1 css-1voshy9-MuiTypography-root"
+    >
+      <span
+        class="MuiSkeleton-root MuiSkeleton-text MuiSkeleton-pulse css-1n7gpw1-MuiSkeleton-root"
+        style="width: 100%;"
+      />
+      <span
+        class="MuiSkeleton-root MuiSkeleton-text MuiSkeleton-pulse css-1n7gpw1-MuiSkeleton-root"
+        style="width: 90%;"
+      />
+      <span
+        class="MuiSkeleton-root MuiSkeleton-text MuiSkeleton-pulse css-1n7gpw1-MuiSkeleton-root"
+        style="width: 30%;"
+      />
+    </p>
+    <div
+      class="css-1ggkl8v-MuiStack-root"
+    >
+      <span
+        class="MuiSkeleton-root MuiSkeleton-text MuiSkeleton-pulse css-1n7gpw1-MuiSkeleton-root"
+        style="width: 20px;"
+      />
+      <span
+        class="MuiSkeleton-root MuiSkeleton-text MuiSkeleton-pulse css-1n7gpw1-MuiSkeleton-root"
+        style="width: 20px;"
+      />
+    </div>
+  </div>
+</DocumentFragment>
+`;

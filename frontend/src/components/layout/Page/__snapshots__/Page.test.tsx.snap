@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Page renders without error 1`] = `
+<DocumentFragment>
+  <div
+    class="css-94a9mv-MuiStack-root"
+  >
+    <div
+      class="MuiBox-root css-j2nflj"
+    >
+      <div
+        class="MuiToolbar-root MuiToolbar-gutters MuiToolbar-regular css-1uiyf5x-MuiToolbar-root-MuiStack-root"
+      >
+        <h1
+          class="MuiTypography-root MuiTypography-h5 css-ag7rrr-MuiTypography-root"
+        >
+          Global Feed
+        </h1>
+        <div
+          class="MuiBox-root css-i9gxme"
+        />
+      </div>
+      <hr
+        class="MuiDivider-root MuiDivider-fullWidth css-9mgopn-MuiDivider-root"
+      />
+    </div>
+  </div>
+</DocumentFragment>
+`;

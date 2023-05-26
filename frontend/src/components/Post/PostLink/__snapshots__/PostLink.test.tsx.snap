@@ -1,0 +1,81 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PostLink renders title correctly 1`] = `
+<DocumentFragment>
+  <div
+    class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation0 MuiCard-root css-1ydk5vu-MuiPaper-root-MuiCard-root"
+  >
+    <a
+      class="MuiButtonBase-root MuiCardActionArea-root css-1utj8hy-MuiButtonBase-root-MuiCardActionArea-root"
+      href="https://www.google.com"
+      rel="noopener noreferrer"
+      tabindex="0"
+      target="_blank"
+    >
+      <div
+        class="MuiBox-root css-puscwe"
+      />
+      <div
+        class="MuiCardContent-root css-qedw9d-MuiCardContent-root"
+      >
+        <span
+          class="MuiTypography-root MuiTypography-caption css-ol7wxs-MuiTypography-root"
+        >
+          https://www.google.com
+        </span>
+        <p
+          class="MuiTypography-root MuiTypography-body2 css-1jflqzp-MuiTypography-root"
+        >
+          Google
+        </p>
+      </div>
+      <span
+        class="MuiCardActionArea-focusHighlight css-1v2exvi-MuiCardActionArea-focusHighlight"
+      />
+      <span
+        class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+      />
+    </a>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`PostLink renders without error 1`] = `
+<DocumentFragment>
+  <div
+    class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation0 MuiCard-root css-1ydk5vu-MuiPaper-root-MuiCard-root"
+  >
+    <a
+      class="MuiButtonBase-root MuiCardActionArea-root css-1utj8hy-MuiButtonBase-root-MuiCardActionArea-root"
+      href="https://www.google.com"
+      rel="noopener noreferrer"
+      tabindex="0"
+      target="_blank"
+    >
+      <div
+        class="MuiBox-root css-puscwe"
+      />
+      <div
+        class="MuiCardContent-root css-qedw9d-MuiCardContent-root"
+      >
+        <span
+          class="MuiTypography-root MuiTypography-caption css-ol7wxs-MuiTypography-root"
+        >
+          https://www.google.com
+        </span>
+        <p
+          class="MuiTypography-root MuiTypography-body2 css-1jflqzp-MuiTypography-root"
+        >
+          https://www.google.com
+        </p>
+      </div>
+      <span
+        class="MuiCardActionArea-focusHighlight css-1v2exvi-MuiCardActionArea-focusHighlight"
+      />
+      <span
+        class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+      />
+    </a>
+  </div>
+</DocumentFragment>
+`;
